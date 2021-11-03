@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "61807f912a83e0e121d9ca22"
+  },
+  "nome": "João",
+  "idade": 37,
+  "status": "ativo",
+  "hobbie": "musica"
+},{
+  "_id": {
+    "$oid": "61807fc22a83e0e121d9ca28"
+  },
+  "nome": "Pedro",
+  "idade": 20,
+  "status": "ativo",
+  "hobbie": "musica"
+},{
+  "_id": {
+    "$oid": "61807fc22a83e0e121d9ca2b"
+  },
+  "nome": "Bianca",
+  "idade": 22,
+  "status": "ativo",
+  "hobbie": "livro"
+},{
+  "_id": {
+    "$oid": "61807fe02a83e0e121d9ca31"
+  },
+  "nome": "Caio",
+  "idade": 31,
+  "status": "inativo",
+  "hobbie": "musica"
+},{
+  "_id": {
+    "$oid": "61807fe02a83e0e121d9ca37"
+  },
+  "nome": "Juliana",
+  "idade": 32,
+  "status": "ativo",
+  "hobbie": "musica"
+},{
+  "_id": {
+    "$oid": "61807fe02a83e0e121d9ca3a"
+  },
+  "nome": "Lúcia",
+  "idade": 43,
+  "status": "ativo",
+  "hobbie": "musica"
+},{
+  "_id": {
+    "$oid": "61807fe02a83e0e121d9ca3d"
+  },
+  "nome": "André",
+  "idade": 25,
+  "status": "ativo",
+  "hobbie": "musica"
+}]
