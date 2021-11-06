@@ -1,4 +1,4 @@
-# Atividade MongoDB
+# Atividade MongoDB - GamaPanAcademy
 
 # Objetivo da Atividade:
 
